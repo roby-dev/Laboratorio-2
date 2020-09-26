@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Laboratorio2</string>
+    <string name="txtNombres">Nombres</string>
+    <string name="txtApellidos">Apellidos</string>
+    <string name="txtCelular">Celular</string>
+    <string name="txtDireccion">Dirección</string>
+    <string name="btnCamara">Tomar Foto</string>
+    <string name="altFoto">Foto</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="txtDocumento">Nro. DNI</string>
+    <string name="lblTitulo">Registrar Estudiante</string>
+    <string name="lblResultadoTitulo">Datos Ingresados</string>
+    <string name="btnAceptar">Aceptar</string>
+</resources>
